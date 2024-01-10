@@ -1,0 +1,21 @@
+ok, new dfat is up and ready for testing. let me know about bugs! there are oscar season features (like user toip 5s for the season) that will open up in the fall. for now, there are some fun lists up. dfat.dugward.com
+
+
+
+
+before oscars:
+----
+
+type bigger on warning
+----
+scroll to top for warning
+
+
+
+
+FOR OSCAR SEASON:
+--------------
+uncomment border for listnotmore CHECK
+all lists list working CHECK
+change back the posters going up
+uncomment the adding topfive to all lists
