@@ -27,7 +27,7 @@ import {
 // FIREBASE STARTUP
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCyQmE-Gh23UB9zH_i6jY3KUtLWMMLWYJw",
+  apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxx",
   authDomain: "newfat-d9a68.firebaseapp.com",
   projectId: "newfat-d9a68",
   storageBucket: "newfat-d9a68.appspot.com",
@@ -1002,7 +1002,7 @@ async function addinglists(newlist) {
         const newFilm =
           button.parentElement.querySelector(".listResultNumber").value;
         const response = await fetch(
-          `https://api.themoviedb.org/3/movie/${newFilm}?api_key=b737a09f5864be7f9f38f1d5ad71c151`
+          `https://api.themoviedb.org/3/movie/${newFilm}?api_key=xxxxxxxxxxxxxxxxxxxxxxxxxx`
         );
         const details = await response.json();
         // console.log(details);
